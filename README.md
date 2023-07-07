@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-[To Do List Advanced](https://todoList.netlify.app/)
+[To Do List Advanced](https://to-do-list-advanced.netlify.app/)
 
 Projeto para fins didáticos, conta com um sistema avançado de To Do List, onde é possivel incluir tarefas a se fazer, editar as tarefas já salvas e excluir ou confirmar se já estiverem concluidas. COnta com um armazenamento no Local Storage permitindo salvar em varios aparelhos, a aplicação web foi desenvolvida com auxilio do Youtuber Matheus Batistti do canal Hora de codar. foram feitos algumas mudanças no css para caracterizar o projeto com um pouco da minha personalidade e diferenciar do projeto proposto.
 
