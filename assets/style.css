@@ -55,7 +55,12 @@ input, select{
 .todo-container {
   max-width: 450px;
   margin: 3rem auto;
-  background-color: #FDFDFD;
+  background: rgba( 213, 207, 205, 0.6 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 2.5px );
+-webkit-backdrop-filter: blur( 2.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
   padding: 1.5rem;
   border-radius: 15px;
 }
